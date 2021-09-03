@@ -4,7 +4,7 @@ it's a list of recreated components that i found on the internet.
 feel free to join as  **contributors**
 
 # Tools 🧰 ! 
-for now most of the components are made with
+for now, most of the components are made with
 - ReactJS
 - tailwindCss
 # installation 💻 ! 
